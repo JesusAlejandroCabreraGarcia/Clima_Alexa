@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "Clima",
+          "samples": [
+            "como estara el clima",
+            "va hacer calor",
+            "me llevo sueter",
+            "Hara sol hoy",
+            "Dame el clima"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "clima alejandro"
+    }
+  }
+}
